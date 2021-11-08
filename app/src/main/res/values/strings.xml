@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android Interview</string>
+    <string name="sq">Simple Questions</string>
+    <string name="tq">Tough Questions</string>
+    <string name="seeother">See Our Other Apps</string>
+    <string name="rateapp">Rate App</string>
+
+    <string name="tv_xx">XX/</string>
+    <string name="tv_yy">YY</string>
+    <string name="tv_question">Question</string>
+    <string name="tv_press_a_button_to_answer">Press A button to Answer</string>
+    <string name="catego_questions">Catego Questions</string>
+    <string name="crack_interview">Crack interview</string>
+</resources>
